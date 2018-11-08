@@ -1,0 +1,11 @@
+.utama{
+    max-width: 1500px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+.ddl-table{
+    width:600px;
+    padding-bottom: 20px;
+}
